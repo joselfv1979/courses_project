@@ -3,7 +3,7 @@
   <div>
     <nav class="navbar navbar-expand-md navbar-dark bg-dark">
       <div>
-        <a href="#" class="navbar-brand">JoseGithub</a>
+        <a href="https://github.com/joselfv1979/courses_project" class="navbar-brand">JoseGithub</a>
       </div>
       <ul class="navbar-nav">
         <li>
