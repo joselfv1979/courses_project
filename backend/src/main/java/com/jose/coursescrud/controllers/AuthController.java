@@ -23,7 +23,7 @@ import com.jose.coursescrud.utils.response.MessageResponse;
 import com.jose.coursescrud.security.jwt.JwtUtils;
 import com.jose.coursescrud.security.services.UserDetailsImpl;
 
-// RESPONDE A LA PETICIÓN DE LOGIN DE LOS USUARIOS
+// SE ENCARGA DE LA AUTENTICACIÓN DE LOS USUARIOS Y DE GENERAR UNA RESPUESTA A LA PETICIÓN DE LOGIN
 
 @CrossOrigin(origins = "*", maxAge = 3600)
 @RestController
